@@ -1,13 +1,4 @@
-{
-
-  "ipwl" = [
-
-    { 
-    "server": "BjornTeste",
-    "ip": "127.0.0.1",
-    },
-    { 
-    "server": "BjornTeste 2",
-    "ip": "127.0.0.2",
-    },
+locs = {
+    [Bjorn] = { 192.168.0.1 },    
+     [Ragnar] = { 127.0.0.1 },  
 }
