@@ -1,4 +1,6 @@
-locs = {
+local ipwl = {
+ip = {
     [Bjorn] = { 192.168.0.1 },    
      [Ragnar] = { 127.0.0.1 },  
+},
 }
