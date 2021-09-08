@@ -1,0 +1,22 @@
+{
+    "Helicrash": [
+        {
+        "ip": "45.191.33.41",
+        "license": "wjMLzu6XGGBl9g8Z2pt0",
+        "versao": "1.0.0"
+        },
+        {
+        "ip": "45.191.33.43",
+        "license": "wjMLzu6XGGBl9g8Z2pt0",
+        "versao": "1.0.0"
+        }
+    ],
+    
+    "RealistVeh": [
+        {
+        "ip": "45.191.33.42",
+        "license": "wjMLzu6XGGBl9g8Z2pt1",
+        "versao": "1.0.0"
+        }
+    ]
+    }
