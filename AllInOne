@@ -18,5 +18,14 @@
         "license": "wjMLzu6XGGBl9g8Z2pt1",
         "versao": "1.0.0"
         }
-    ]
+    ],
+    
+     "Box": [
+        {
+        "ip": "45.191.33.42",
+        "license": "",
+        "versao": "1.0.0"
+        }
+    ],
+
     }
