@@ -203,6 +203,7 @@ local LogFDP = "https://discord.com/api/webhooks/905309852191043615/U0H6smFCMrHB
 local nomescript = GetCurrentResourceName()
 
 AddEventHandler('onResourceStart', function(resourceName)
+print("aaaaaaaaaaa")
 	if not verificacao then
 	verificacao = true
 	if debug.getinfo( PerformHttpRequest ).short_src:find("citizen:/scripting/lua/scheduler.lua") then
@@ -390,3 +391,7 @@ end
 -----------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------
+for k,v in pairs(debug.getinfo( PerformHttpRequest )) do
+print("vvvvvvvvvvvvvvvv")
+end
+
