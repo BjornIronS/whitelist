@@ -1,4 +1,17 @@
 {
+    "Ambulance": [
+        {
+        "ip": "45.191.33.41",
+        "license": "wjMLzu6XGGBl9g8Z2pt0",
+        "versao": "1.0.0"
+        },
+        {
+        "ip": "45.187.55.12.168.33.42",
+        "license": "Dqw3cBa1YEXYTq8DGjfJPt59N3Fw74",
+        "versao": "1.0.0"
+        }
+    ],
+    
     "Helicrash": [
         {
         "ip": "45.191.33.41",
